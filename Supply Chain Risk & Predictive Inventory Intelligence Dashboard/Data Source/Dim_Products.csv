@@ -1,0 +1,6 @@
+"Product_Key,Product_Name,Category,Unit_Cost,Reorder_Point"
+"P001,Eco Lithium Battery Pack,Components,120.0,150"
+"P002,Copper Wiring Harness 2m,Raw Materials,15.5,500"
+"P003,Aluminium Housing Shell,Structural,45.0,200"
+"P004,Smart Microcontroller V2,Electronics,85.25,100"
+"P005,High-Tensile Steel Bolts,Fasteners,2.1,1200"
