@@ -5,6 +5,11 @@ This repository contains an enterprise-ready Business Intelligence and Data Scie
 
 Instead of treating supply chain data as a flat log, this project implements a robust **Star Schema data model** in Power BI to monitor financial exposure and predict systemic delivery delays. Built utilizing a dark-mode UI customized for executive decision-making, it allows a Chief Procurement Officer (CPO) or VP of Supply Chain to isolate operational bottlenecks in seconds.
 
+## 🐍 Data Preprocessing & Python ETL
+Before building the dashboard, raw transactional data was processed using Python in a Jupyter Notebook to ensure data integrity and cleanliness.
+* **Notebook Registry:** Check out [`Data_Cleaning_and_EDA.ipynb`](./Data_Cleaning_and_EDA.ipynb) to inspect the code.
+* **Key Operations:** Executed missing value imputation, engineered custom timedelta flags using `pandas`, and verified data constraints before importing into the Star Schema.
+
 ### 🔗 Key Features Demonstrated:
 * **Data Modeling:** Implementation of a proper Star Schema with 1-to-Many relational integrity.
 * **Advanced DAX:** Context modification (`CALCULATE`), data science variance measures (`STDEV.P`), and time-intelligence moving averages.
