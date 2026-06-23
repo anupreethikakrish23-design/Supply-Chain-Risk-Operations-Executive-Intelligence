@@ -16,10 +16,10 @@ Instead of treating supply chain data as a flat log, this project implements a r
 ## 🖥️ Executive Interface & Visual Interface
 
 ### Page 1: Executive Operations Summary
-![Executive Operations Dashboard](Supply%20Chain%20Risk%20%26%20Predictive%20Inventory%20Intelligence%20Dashboard/Dashboard%20-%20Supply-Chain-Risk-Analysis-Page1.png)
+![Executive Operations Dashboard](Supply Chain Risk & Predictive Inventory Intelligence Dashboard/Dashboard - Supply-Chain-Risk-Analysis-Page1.png)
 
 ### Page 2: Root-Cause Supplier Risk Deep-Dive
-![Supplier Risk Decomposition Tree](Supply%20Chain%20Risk%20%26%20Predictive%20Inventory%20Intelligence%20Dashboard/Dashboard%20-%20Supply-Chain-Risk-Analysis-Page2.png)
+![Supplier Risk Decomposition Tree](Supply Chain Risk & Predictive Inventory Intelligence Dashboard/Dashboard - Supply-Chain-Risk-Analysis-Page1.png)
 
 ---
 
